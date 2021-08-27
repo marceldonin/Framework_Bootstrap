@@ -1,0 +1,138 @@
+/*
+Theme Name: 
+Theme URI: 
+Author: Marcel Donin
+Author URI: 
+Description:
+Data:  
+Version: 1.0
+
+--------------------------------------------
+ESTRUTURA BASE
+--------------------------------------------
+/***** DECLARAÇÃO DE VARIAVEIS*/
+/***** ESTILOS GERAIS*/
+/***** BODY*/
+/***** HEADER*/
+/***** FOOTER*/
+/***** PÁGINA INICIAL*/
+/***** EXTRAS*/
+/***** @MEDIA*/
+/*
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+
+*/
+
+/***** DECLARAÇÃO DE VARIAVEIS*/
+
+/***** ESTILOS GERAIS*/
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+/***** BODY*/
+
+/***** HEADER*/
+.navbar {
+    background-color: rgb(140, 151, 247);
+}
+
+/***** SECTION*/
+.titulos{
+    color: rgb(0, 0, 0);
+    padding-bottom: 10px;
+    
+}
+
+.slogan{
+    background-color: rgb(55, 55, 172);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.quem-somos{
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+
+.QS_espacamento{
+    padding-top: 30px;
+}
+
+.blogg{
+    background-color: rgb(55, 55, 172);
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.contatoo{
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.container-fluid.espacamento{
+    background-color: rgb(55, 55, 172);
+    padding-left: 50px;
+    padding-right: 25px;
+    padding-bottom: 80px;
+   
+   
+}
+
+.boxQS{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.blog_resumo{
+    color: white;
+    padding-top: 30px;
+   
+}
+
+.btn.btn-danger{
+    margin-top: 30px;
+    
+}
+
+.col-mg-4.rotacionar{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    
+}
+
+
+
+
+/***** FOOTER*/
+.bg_footer{
+    background-color: rgb(55, 55, 172); 
+    color: white;
+    padding-top: 15px;   
+    padding-bottom: 10px;
+}
+
+
+/***** PÁGINA INICIAL*/
+
+/***** EXTRAS*/
+
+/***** @MEDIA*/
