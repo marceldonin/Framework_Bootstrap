@@ -90,7 +90,8 @@ ESTRUTURA BASE
     background-color: rgb(55, 55, 172);
     padding-left: 50px;
     padding-right: 25px;
-    padding-bottom: 80px;
+    padding-bottom: 40px;
+    padding-top: 40px;
    
    
 }
@@ -103,6 +104,7 @@ ESTRUTURA BASE
 .blog_resumo{
     color: white;
     padding-top: 30px;
+    padding-bottom: 10;
    
 }
 
@@ -118,6 +120,17 @@ ESTRUTURA BASE
     padding-bottom: 50px;
     
 }
+
+.form-group{
+    text-align: left;
+    
+}
+
+
+.form-control.espacamento2{
+    margin-bottom: 20px;
+}
+
 
 
 
