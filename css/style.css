@@ -82,7 +82,7 @@ ESTRUTURA BASE
 
 .contatoo{
     background-color: white;
-    padding-top: 40px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
@@ -161,6 +161,26 @@ ESTRUTURA BASE
 .QSmeta{
     color: black;
 }
+
+/***** PÁGINA Blog*/
+
+.Bespaco{
+    padding-top: 50px;
+    padding-bottom: 20px;    
+}
+
+.fundo{
+    background-color: rgb(55, 55, 172);
+    padding-left: 50px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    margin-bottom: 60px;
+}
+
+/***** PÁGINA SERVIÇO*/
+
+
 
 /***** EXTRAS*/
 
