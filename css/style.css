@@ -58,6 +58,16 @@ ESTRUTURA BASE
     
 }
 
+.titulos2{
+    color: rgb(0, 0, 0);
+    padding-top: 150px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+
+
+
 .slogan{
     background-color: rgb(55, 55, 172);
     padding-top: 70px;
@@ -70,9 +80,7 @@ ESTRUTURA BASE
     padding-bottom: 70px;
 }
 
-.QS_espacamento{
-    padding-top: 30px;
-}
+
 
 .blogg{
     background-color: rgb(55, 55, 172);
@@ -99,6 +107,7 @@ ESTRUTURA BASE
 .boxQS{
     margin-left: 350px;
     margin-right: 350px;
+    padding-top: 30px;
 }
 
 .blog_resumo{
